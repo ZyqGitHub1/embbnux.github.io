@@ -1,0 +1,203 @@
+*{  
+margin:0;  
+padding:0;
+  
+}
+html{
+   height:100%;
+   width:100%;
+   overflow:hidden;
+}
+body {
+  height:100%;
+  margin:0;
+  padding:0;
+  overflow-y:hidden;
+}
+a:link{
+    	color: #000;
+}
+	 
+a:visited{
+	    color: #000000;
+}
+a:hover{
+	    color: #0101DF;
+}
+h2.title{
+	padding:20px 20px 20px 20px;
+	position:relative;
+	top:40px;
+	text-align: center;
+}
+h3.link_first{
+	padding: 10px 10px 10px 10px;
+	position:relative;
+	top:200px;
+	text-align: center;
+}
+h5.nav{
+	font-weight:bold;
+    color:#FFFFFF;
+    text-align:center;
+    
+}
+ul.title
+{
+	background:black;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	padding-top:4px;
+	padding-bottom:25px;
+}
+li.right
+{
+display:inline;
+float: right;
+}
+li.left
+{
+display:inline;
+float: left;
+}
+a.nav:link,a.nav:visited{
+	
+    color:#FFFFFF;
+    text-align:center;
+    padding:6px;
+    padding-top:4px;
+    text-decoration:none;	
+}
+a.nav:hover,a.nav:active{
+   background-color:#bebebe;	
+}
+#fav img{
+	width:20px;
+	height:20px;
+}
+footer{
+  
+        padding: 10px 10px 10px 10px;
+	position:relative;
+	text-align: center;
+
+}
+
+div#interview{  
+     
+   margin:0 20px;
+   width:auto;
+   position:relative;
+   top:50px;
+   left:50px;
+   float:left;
+   
+ }  
+           
+#interview ul{  
+   list-style-type: none;  
+   width: 550px;  
+ }  
+           
+#interview h3{  
+   font: 20px/1.5 Helvetica, Verdana, sans-serif;  
+   color:#08088A;
+ }  
+a.interview:link,a.interview:visited{
+   font: 18px/1.5 Helvetica, Verdana, sans-serif;	
+   color:#0101DF;
+   text-decoration:none;
+}
+
+a.interview:hover a.interview:active{     	 
+   color:#fff;
+}   
+
+        
+#interview li img{  
+   float: left;  
+   margin: 0 15px 0 0;  
+ }  
+           
+#interview li p {  
+   font: 200 15px/1.5 Georgia, Times New Roman, serif;  
+ }  
+           
+#interview li {  
+   padding: 10px;  
+   overflow: auto;  
+ }  
+           
+#interview li:hover {  
+   background: #eee;  
+   
+ } 
+
+div#rightside{  
+     
+   margin:0 20px;
+   width:200px;
+   position:relative;
+   top:50px;
+   right:20px;
+   float:right;
+   
+ }
+#rightside ul{  
+   list-style-type: none;  
+   width: 180px;  
+ }  
+           
+#rightside h3{  
+   font:  20px/1.5 Helvetica, Verdana, sans-serif; 
+   color: #08088A; 
+ }  
+   
+#rightside a{
+	font: 200 15px/1.5 Georgia, Times New Roman, serif; 
+}
+#rightside a:link,a:visited{
+   color:#0040ff;
+}  
+#rightside a:hover a:active{
+   color: #08088A;
+}      
+#rightside li img{  
+   float: left;  
+   margin: 0 15px 0 0;  
+ }  
+           
+#rightside li p {  
+   font: 200 12px/1.5 Georgia, Times New Roman, serif;  
+ }  
+           
+#rightside li {  
+   padding: 5px ;  
+   overflow: auto;  
+ }  
+           
+
+div#main {
+
+ height: auto;
+ width: auto;
+}
+div#footer{
+	
+ clear:both;
+ text-align: center;
+ padding: 5px 5px 5px 5px;
+ position:relative;
+ top:100px;
+ background: #dfdfdf;
+}
+div#welcome
+{
+     clear:both;
+     text-align: center;
+     position:relative;
+     top:10px;
+    }
+
+
